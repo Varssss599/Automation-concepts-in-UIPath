@@ -1,6 +1,6 @@
 {
-  "name": "Do_while",
-  "projectId": "00e58d4b-bd9f-4e27-8467-cf1edb970643",
+  "name": "For_each",
+  "projectId": "b7d7bdb8-1b6b-47b6-a3ac-c2f0a479c50b",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -46,7 +46,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "c9009828-e8f5-47a4-9159-0b648af3286e",
+      "uniqueId": "eaf1dbf4-80b8-4452-ae36-b8d3ec119ee9",
       "input": [],
       "output": []
     }
